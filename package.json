@@ -1,13 +1,13 @@
 {
   "name": "e2e5",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repository can be used as a starter kit for end to end testing of angularjs application using protractor and cucmber.",
   "main": "index.js",
   "scripts": {
     "start": "http-server -a localhost -p 1337",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "e2etest": "protractor conf.js"
   },
-  "author": "",
+  "author": "https://github.com/mistertandon",
   "license": "ISC",
   "devDependencies": {
     "cucumber": "^1.3.1",
