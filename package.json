@@ -1,7 +1,7 @@
 {
   "name": "e2e5",
   "version": "1.0.0",
-  "description": "This repository can be used as a starter kit for end to end testing of angularjs application using protractor and cucmber.",
+  "description": "This repository can be used as a starter kit for end to end testing of angularjs application using protractor and cucmberJs.",
   "main": "index.js",
   "scripts": {
     "start": "http-server -a localhost -p 1337",
